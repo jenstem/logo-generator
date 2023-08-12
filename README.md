@@ -66,7 +66,7 @@ This app is meant to help the user quickly and easily generate a new logo.
 ## Screenshots:
 ##
 
-![](https://github.com/jenstem/readme-generator/blob/main/assets/getting-started.png) <br>
+![](https://github.com/jenstem/logo-generator/blob/main/assets/initiate.png) <br>
 *This is a screenshot of how to initiate the Logo Generator in the terminal*
 ##
 
