@@ -88,3 +88,4 @@ GitHub URL:  https://github.com/jenstem
 ## Notes:
 
 I received help from a tutor, [Scott Everett](https://calendly.com/fsf-tutor-team/scott-everett?month=2023-06).
+I also received help from BCS Learning Assistant.
