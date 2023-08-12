@@ -70,7 +70,7 @@ This app is meant to help the user quickly and easily generate a new logo.
 *This is a screenshot of how to initiate the Logo Generator in the terminal*
 ##
 
-![](https://github.com/jenstem/logo-generator/blob/main/examples/blue-circle-example.png) <br>
+![](https://github.com/jenstem/logo-generator/blob/main/assets/blue-circle-example.png) <br>
 *This is a screenshot of a finished Logo*
 ##
 
