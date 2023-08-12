@@ -74,7 +74,7 @@ This app is meant to help the user quickly and easily generate a new logo.
 *This is a screenshot of a finished Logo*
 ##
 
-[Click to watch the video!](https://youtu.be/Bu0hCR7xznU) <br>
+[Click to watch the video!](https://drive.google.com/file/d/1jVk8p_0RgXST3XVe6oxJ4tfb0o1Xx0mX/view) <br>
 *This is a video of how to use the Logo Generator*
 ##
 
